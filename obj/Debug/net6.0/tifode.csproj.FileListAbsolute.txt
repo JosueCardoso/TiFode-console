@@ -1,0 +1,15 @@
+C:\Users\Josue\Desktop\tifode\bin\Debug\net6.0\tifode.exe
+C:\Users\Josue\Desktop\tifode\bin\Debug\net6.0\tifode.deps.json
+C:\Users\Josue\Desktop\tifode\bin\Debug\net6.0\tifode.runtimeconfig.json
+C:\Users\Josue\Desktop\tifode\bin\Debug\net6.0\tifode.dll
+C:\Users\Josue\Desktop\tifode\bin\Debug\net6.0\tifode.pdb
+C:\Users\Josue\Desktop\tifode\obj\Debug\net6.0\tifode.csproj.AssemblyReference.cache
+C:\Users\Josue\Desktop\tifode\obj\Debug\net6.0\tifode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\Desktop\tifode\obj\Debug\net6.0\tifode.AssemblyInfoInputs.cache
+C:\Users\Josue\Desktop\tifode\obj\Debug\net6.0\tifode.AssemblyInfo.cs
+C:\Users\Josue\Desktop\tifode\obj\Debug\net6.0\tifode.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\tifode\obj\Debug\net6.0\tifode.dll
+C:\Users\Josue\Desktop\tifode\obj\Debug\net6.0\refint\tifode.dll
+C:\Users\Josue\Desktop\tifode\obj\Debug\net6.0\tifode.pdb
+C:\Users\Josue\Desktop\tifode\obj\Debug\net6.0\tifode.genruntimeconfig.cache
+C:\Users\Josue\Desktop\tifode\obj\Debug\net6.0\ref\tifode.dll
